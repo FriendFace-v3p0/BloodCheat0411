@@ -1,0 +1,16 @@
+﻿body
+{
+    background: url('0411.png') top left repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+body {
+    text-align: center;
+}
+p {
+    width: 30%;
+    display: inline-block;
+    margin: 30vh auto;
+    color: blanchedalmond;
+}
